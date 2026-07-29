@@ -1,21 +1,23 @@
-# Tourism Destination Dashboard
+# 🏝 Tourism Destination Dashboard
 
-## Overview
+## 📌 Overview
+Dashboard ini dibuat menggunakan **Power BI** untuk menganalisis destinasi wisata di 5 kota besar di Pulau Jawa.
 
-Dashboard ini dibuat menggunakan Power BI untuk menganalisis destinasi wisata di 5 kota besar di Pulau Jawa.
+## 📊 Dashboard Preview
 
-## Dashboard Preview
+![Dashboard](dashboard.png)
 
-*(Gambar dashboard akan ditampilkan setelah dashboard.png di-upload.)*
+## 🎯 Objectives
+- Menganalisis jumlah destinasi wisata.
+- Membandingkan kategori wisata.
+- Menampilkan persebaran lokasi wisata.
+- Membantu pengambilan keputusan berdasarkan data.
 
-## Tools
+## 🛠 Tools
 - Power BI
 - Power Query
 - DAX
 
-## Dataset
-- Source: Kaggle
-
-## Files
+## 📂 Files
 - dashboard.png
-- Tourism Destination Dashboard.pbix
+- Fortofolio Turism Data Analis dengan Power BI.pbix
