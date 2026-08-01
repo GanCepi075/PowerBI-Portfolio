@@ -8,7 +8,7 @@ This repository contains my end-to-end Business Intelligence projects built usin
 
 # 👨‍💻 About Me
 
-Hi, I'm **Cepi**.
+Hi, I'm **Gan Cepi**.
 
 I am an Informatics graduate with a strong interest in:
 
