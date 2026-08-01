@@ -2,50 +2,49 @@
 
 Welcome to my Power BI Portfolio!
 
-Hi, I'm **Cepi**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights through interactive dashboards using **Power BI**.
+This repository contains several dashboard projects created using Microsoft Power BI. Each project demonstrates data cleaning, data modeling, DAX calculations, visualization, and dashboard design skills.
 
 ---
 
-# 👨‍💻 About Me
-
-I enjoy analyzing data, building interactive dashboards, and solving business problems through data visualization.
-
-Currently, I'm continuously improving my skills in:
-
-- Power BI
-- DAX
-- Power Query
-- Data Visualization
-- Microsoft Excel
-- SQL (Learning)
-- Python (Learning)
-
----
-
-# 🛠 Tools
+# 🛠 Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
-- DAX
 - Microsoft Excel
-- GitHub
+- DAX
+- Data Modeling
+- Data Visualization
 
 ---
 
 # 📂 Portfolio Projects
 
-| No | Project | Status |
-|----|-------------------------------|--------|
-| 1 | Tourism Destination Dashboard | ✅ Completed |
-| 2 | Superstore Business Health Dashboard | ✅ Completed |
-| 3 | HR Analytics Dashboard | 🔜 Coming Soon |
-| 4 | Banking Dashboard | 🔜 Coming Soon |
-| 5 | Healthcare Dashboard | 🔜 Coming Soon |
+| Project | Description |
+|---------|-------------|
+| 🏝 Tourism Destination Dashboard | Tourism analysis dashboard with visitor insights and destination overview. |
+| 👥 HR Employee Attrition Dashboard | HR analytics dashboard for employee attrition and workforce analysis. |
+| 🛒 Superstore Business Health Dashboard | Sales and business performance dashboard using Superstore dataset. |
+| 🎬 Netflix Titles Dashboard | Dashboard analyzing Netflix content by type, genre, country, rating, and release trends. |
 
 ---
 
-# 📬 Contact
+# 📈 Skills Demonstrated
 
-- GitHub: https://github.com/GanCepi075
+- Data Cleaning
+- Data Transformation
+- Power Query
+- Data Modeling
+- DAX Measures
+- KPI Development
+- Interactive Dashboard Design
+- Data Visualization
+- Business Insight Generation
 
-Thank you for visiting my portfolio!
+---
+
+# 👤 Author
+
+**Gan Cepi**
+
+GitHub:
+https://github.com/GanCepi075
