@@ -6,10 +6,10 @@ Dashboard ini dibuat menggunakan **Power BI** untuk menganalisis destinasi wisat
 ## 📊 Dashboard Preview
 
 ### Data Destinasi
-![Dashboard Destinasi](dashboard2.png)
+![Dashboard Destinasi](dashboard3.png)
 
 ### Data Traveller
-![Dashboard Traveller](dashboard3.png)
+![Dashboard Traveller](dashboard2.png)
 
 ## 🎯 Objectives
 - Menganalisis jumlah destinasi wisata.
